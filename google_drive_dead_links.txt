@@ -1,0 +1,20 @@
+algorithms\searching.md
+      33:3-33:122  warning  Link to https://drive.google.com/open?id=1iHgUlPK2G9Gk3mbdOSObUKOFld_mALrs is dead                                                                      no-dead-urls  remark-lint
+      49:7-49:126  warning  Link to https://drive.google.com/open?id=1iHgUlPK2G9Gk3mbdOSObUKOFld_mALrs is dead     
+
+career\roles-in-tech\roles-in-tech.md
+      42:3-42:116  warning  Link to https://drive.google.com/open?id=1oXgOX1EC4igI6ZwgJlhF6AN4dG2Yn_S4 is dead  
+
+career\roles-in-tech\security.md
+      61:3-61:116  warning  Link to https://drive.google.com/file/d/1oXgOX1EC4igI6ZwgJlhF6AN4dG2Yn_S4/view is dead 
+
+dev-tools\command-line-interface.md
+   118:37-118:129  warning  Link to https://drive.google.com/open?id=1ELQmWotq5CefBojysrHnqcDNV0xXutDx is dead
+
+javascript\javascript-1-variables.md
+      47:1-47:143  warning  Link to https://drive.google.com/open?id=1tCb0KPmGWV2Gyylbh8pf9Pc7cD7ROixR is dead
+
+onboarding\ergonomics.md
+      56:3-56:113  warning  Link to https://drive.google.com/open?id=1s2yDFOSpTiiw_75aF6DjyMRtdK9EuyaD is dead
+    65:120-65:204  warning  Link to https://drive.google.com/open?id=1s2yDFOSpTiiw_75aF6DjyMRtdK9EuyaD is dead
+
