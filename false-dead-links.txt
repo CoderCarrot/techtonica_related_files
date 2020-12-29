@@ -41,6 +41,8 @@ git\github-collaboration.md
 git\github-storage.md
       48:4-48:107  warning  Link to https://gist.github.com/PurpleBooth/109311bb0361f32d87a2 is dead
       ***Doesn't always load in time, but is not dead***
+      ***I put a ticket into Github. There are so many comments on this page that it keeps it from loading properly a lot of the time.
+         I put notes in the learning material mentioning to keep trying the link if it doesn't load***
 
 node-js\node-lab-exercise-part-2.md
   170:186-170:207  warning  Link to http://127.0.0.1:3000 is dead
@@ -60,6 +62,8 @@ open-source\open-source.md
 projects\eventonica\eventonica-part3-jquery-ui.md
   101:143-101:199  warning  Link to https://gist.github.com/PurpleBooth/109311bb0361f32d87a2 is dead
       ***Doesn't always load in time, but is not dead***
+      ***I put a ticket into Github. There are so many comments on this page that it keeps it from loading properly a lot of the time.
+         I put notes in the learning material mentioning to keep trying the link if it doesn't load***
 
 projects\node-http-exercise\node-http-exercise.md
     280:32-280:54  warning  Link to http://localhost:5000/ is dead
