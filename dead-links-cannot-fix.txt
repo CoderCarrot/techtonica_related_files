@@ -6,6 +6,8 @@ react-js\react-part-3-component-hierarchies.md
 web\html.md
        75:3-75:96  warning  Link to https://www.girldevelopit.com/materials/inter-html is dead
        ***I reached out to Girl Develop It and they said they are working on fixing the link.***
+       ***The material/repo for the link is here: https://github.com/girldevelopit/gdi-featured-html-css-intermediate, but the link itself has not been fixed yet.
+          If I can figure out how they're putting up the other sites, I might be able to help them fix it.***
 
 personal-brand\personal-branding.md
      28:67-28:219  warning  Link to https://blocktogether.org/show-blocks/5867111278318bd542293272f75147f8fc5931bea431e7ca16e9242964965d66494a6fb68f3518b82f171bcf0e419ccc is dead
